@@ -1,4 +1,4 @@
-# Redução de dimensionalidade e seleção de
+# Redução de dimensionalidade e seleção de Features
 
 Neste desafio vamos praticar redução de dimensionalidade com PCA e seleção
 de variáveis com RFE.
